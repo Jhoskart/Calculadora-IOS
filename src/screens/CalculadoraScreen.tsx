@@ -7,6 +7,7 @@ import useCalculadora from '../hooks/useCalculadora'
 
 const CalculadoraScreen = () => {
 
+  //se usa el hook
   const { numero, 
           numeroAnterior, 
           limpiar, 
