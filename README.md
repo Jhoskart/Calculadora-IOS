@@ -9,3 +9,7 @@ Despues tienes que abrir tu emulador de Android de preferencia y correr en la co
 El proyecto se abrira en tu emulador y lo podras disfrutar (:
 
 Espero que te sirva de guia y lo disfrutes tanto como yo 
+
+<p align='center'>
+    <img height='750rem' width='500' src='./src/assets/ios.png' />
+</p>
